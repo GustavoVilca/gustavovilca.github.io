@@ -3,12 +3,6 @@ layout: page
 title: "About"
 permalink: /about/
 ---
-
-Gustavo Luis Vilca Colquehuanca
-https://orcid.org/0000-0002-1900-0639 
-[Google Scholar](https://scholar.google.com/citations?user=p_tYKQkAAAAJ&hl=es)  
-[CTI Vitae](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=42851)
-
 <p>
 <strong>Gustavo Luis Vilca Colquehuanca</strong> |
 <a href="https://orcid.org/0000-0002-1900-0639" target="_blank" translate="no">ORCID</a> |
