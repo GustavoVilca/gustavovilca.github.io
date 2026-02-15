@@ -3,8 +3,18 @@ layout: page
 title: "Ideas"
 permalink: /ideas/
 ---
+<table class="tabla-notas">
 
-<style>
+.tabla-notas td:first-child {
+  width: 75%;
+}
+
+.tabla-notas td:last-child {
+  width: 25%;
+  text-align: right;
+}
+
+  <style>
   .notes-layout{display:flex; gap:32px; align-items:flex-start;}
   .notes-main{flex:1; min-width:0;}
   .notes-side{width:220px;}
