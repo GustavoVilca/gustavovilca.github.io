@@ -1,6 +1,6 @@
 /* Aumentar ancho máximo del contenido */
 .wrapper {
-  max-width: 1100px;   /* puedes probar 1000px, 1200px, etc. */
+  max-width: 1200px;   /* puedes probar 1000px, 1200px, etc. */
 }
 
 /* Opcional: ampliar aún más solo la página de notas */
