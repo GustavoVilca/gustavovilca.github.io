@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Inicio"
 ---
 ### ¡Bienvenidos!
@@ -11,11 +11,6 @@ Si quieres saber más o seguir en contacto, escríbeme a: gvilca@unaj.edu.pe
 - Escuela de Gestión Pública y Desarrollo Social – Profesor Asociado 
 - Grupo de Investigación Sociedad, Política y Gobierno - Investigador Titular / Coordinador 
 - Waynarroque, Revista de Ciencias Sociales Aplicadas - Editor
-
----
-Aquí comparto investigaciones, docencia y reflexiones públicas.
-
----
 
 ### Publicaciones recientes
 Aquí comparto investigaciones, docencia y reflexiones públicas.
