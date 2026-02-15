@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research"
+title: "<span translate='no'>Research</span>"
 permalink: /research/
 ---
 
