@@ -1,20 +1,62 @@
-/* Aumentar ancho general del contenido */
+/* Aumentar ancho general del contenido 
 .wrapper {
   max-width: 1300px;   /* prueba 1300 o 1400 */
 }
 
-/* Hacer que el contenido use más espacio */
+/* Hacer que el contenido use más espacio 
 .page-content {
   max-width: 1200px;
 }
 
-/* Tabla más amplia */
+/* Tabla más amplia 
 .tabla-notas {
   width: 100%;
   table-layout: auto;
 }
 
-/* Evitar saltos de línea en títulos */
+/* Evitar saltos de línea en títulos 
 .tabla-notas td:first-child a {
   white-space: nowrap;
 }
+*/
+
+
+/*
+/* =========================================
+   CENTRAR CONTENIDO GLOBAL
+========================================= */
+
+.wrapper {
+  max-width: 1100px;   /* puedes probar 1000px, 1200px */
+  margin: 0 auto;      /* centra horizontalmente */
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* =========================================
+   CENTRAR CONTENIDO DE PÁGINAS
+========================================= */
+
+.page-content {
+  display: flex;
+  justify-content: center;
+}
+
+.page-content .wrapper {
+  width: 100%;
+  max-width: 1100px;
+}
+
+/* =========================================
+   Mejorar alineación visual del texto
+========================================= */
+
+.page-content {
+  text-align: left;
+}
+
+/* Opcional: dar más aire vertical */
+.page-content {
+  padding-top: 30px;
+}
+
