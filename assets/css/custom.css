@@ -4,7 +4,7 @@
 ========================================= */
 
 .wrapper {
-  max-width: 1200px;   /* puedes probar 1000px, 1200px */
+  max-width: 1000px;   /* puedes probar 1000px, 1200px */
   margin: 0 auto;      /* centra horizontalmente */
   padding-left: 20px;
   padding-right: 20px;
