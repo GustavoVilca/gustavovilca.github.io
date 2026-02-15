@@ -5,11 +5,6 @@ url: "https://gustavovilca.github.io"
 theme: minima
 author: GLVC
 
-sass:
-  style: compressed
-minima:
-  custom_css:
-    - assets/css/custom.css
 
 header_pages:
   - index.md
