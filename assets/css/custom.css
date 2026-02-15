@@ -1,9 +1,20 @@
-/* Aumentar ancho máximo del contenido */
+/* Aumentar ancho general del contenido */
 .wrapper {
-  max-width: 1200 px;   /* puedes probar 1000px, 1200px, etc. */
+  max-width: 1300px;   /* prueba 1300 o 1400 */
 }
 
-/* Opcional: ampliar aún más solo la página de notas */
+/* Hacer que el contenido use más espacio */
 .page-content {
-  max-width: 1300 px;
+  max-width: 1200px;
+}
+
+/* Tabla más amplia */
+.tabla-notas {
+  width: 100%;
+  table-layout: auto;
+}
+
+/* Evitar saltos de línea en títulos */
+.tabla-notas td:first-child a {
+  white-space: nowrap;
 }
