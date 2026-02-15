@@ -16,3 +16,13 @@ Si quieres saber más o seguir en contacto, escríbeme a: gvilca@unaj.edu.pe
 
 Bienvenido a mi espacio académico digital.
 Aquí comparto investigaciones, docencia y reflexiones públicas.
+
+---
+
+### Publicaciones recientes
+
+{% for post in site.posts limit:5 %}
+- **{{ post.date | date: "%d %B %Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+
+[Ver todos los artículos →](/blog/)
