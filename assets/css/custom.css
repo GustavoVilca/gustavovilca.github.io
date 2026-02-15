@@ -10,7 +10,7 @@
 
 /* Tabla más amplia */
 .tabla-notas {
-  width: 80%;
+  width: 100%;
   table-layout: auto;
 }
 
