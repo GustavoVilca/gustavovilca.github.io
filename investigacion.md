@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "<span translate='no'>Research</span>"
-permalink: /research/
+title: Investigación
+permalink: /investigacion/
 ---
 
 ## Proyectos recientes
