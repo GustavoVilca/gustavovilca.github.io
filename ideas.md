@@ -3,18 +3,68 @@ layout: page
 title: "Ideas"
 permalink: /ideas/
 ---
-<table class="tabla-notas">
+<style>
+  /* Centrar el contenido de ESTA página */
+  .page-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
 
-  <style>
-  .notes-layout{display:flex; gap:32px; align-items:flex-start;}
-  .notes-main{flex:1; min-width:0;}
-  .notes-side{width:220px;}
-  .notes-controls{display:flex; gap:12px; align-items:center; margin:16px 0;}
-  .notes-controls input{padding:6px 10px; width:260px; max-width:100%;}
+  .notes-layout{
+    display:flex;
+    gap:32px;
+    align-items:flex-start;
+  }
+  .notes-main{
+    flex:1;
+    min-width:0; /* importante para que no se rompa el flex */
+  }
+  .notes-side{
+    width:240px; /* sidebar a la derecha */
+    flex:0 0 240px;
+  }
+
+  .notes-controls{
+    display:flex;
+    gap:12px;
+    align-items:center;
+    margin:16px 0;
+    flex-wrap: wrap;
+  }
+  .notes-controls input{padding:6px 10px; width:320px; max-width:100%;}
   .notes-controls select{padding:6px 10px;}
-  table.notes-table{width:100%; border-collapse:collapse; margin-top:8px;}
-  table.notes-table th, table.notes-table td{padding:10px 8px; border-bottom:1px solid #e6e6e6; vertical-align:top;}
+
+  table.notes-table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:8px;
+    table-layout: fixed; /* clave para controlar anchos */
+  }
+  table.notes-table th, table.notes-table td{
+    padding:10px 8px;
+    border-bottom:1px solid #e6e6e6;
+    vertical-align:top;
+  }
   table.notes-table th{text-align:left;}
+
+  /* Anchos: Título grande / Fecha pequeña */
+  table.notes-table th:nth-child(1),
+  table.notes-table td:nth-child(1){ width: calc(100% - 160px); }
+
+  table.notes-table th:nth-child(2),
+  table.notes-table td:nth-child(2){
+    width:160px;
+    white-space:nowrap;
+  }
+
+  /* Evitar salto de línea en títulos (opcional) */
+  table.notes-table td:nth-child(1) a{
+    display:block;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+
   .cat-title{font-weight:600; margin-top:8px; margin-bottom:8px;}
   .cat-list{list-style:none; padding:0; margin:0;}
   .cat-list li{margin:6px 0;}
@@ -22,11 +72,14 @@ permalink: /ideas/
   .cat-list a.active{font-weight:700; text-decoration:underline;}
   .muted{opacity:.75;}
   .count{opacity:.75;}
+
   @media (max-width: 820px){
     .notes-layout{flex-direction:column;}
-    .notes-side{width:100%;}
+    .notes-side{width:100%; flex:1;}
+    table.notes-table td:nth-child(1) a{white-space:normal;} /* en móvil sí que envuelva */
   }
 </style>
+
 
 <div class="notes-layout">
 
@@ -47,8 +100,8 @@ permalink: /ideas/
     <table class="notes-table" id="notesTable">
       <thead>
         <tr>
-          <th style="width:75%;">Título</th>
-          <th style="width:25%;">Fecha</th>
+          <th>Título</th>
+          <th>Fecha</th>
         </tr>
       </thead>
       <tbody id="notesBody">
