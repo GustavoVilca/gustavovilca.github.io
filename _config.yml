@@ -8,10 +8,8 @@ author: GLVC
 
 header_pages:
   - index.md
-  - about.md
-  - research.md
-  - teaching.md
-  - outreach.md
-  - blog.md
-  - notas.md
+  - acerca de.md
+  - investigación.md
+  - docencia.md
+  - incidencia.md
   - ideas.md
