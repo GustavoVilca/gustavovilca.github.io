@@ -1,0 +1,11 @@
+---
+---
+
+@import "minima";
+
+/* Tu CSS personalizado */
+@import "css/custom.css";
+
+/* (opcional) refuerzo */
+.wrapper { max-width: 1200px; }
+.page-content { padding-left: 15px; padding-right: 15px; }
