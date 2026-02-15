@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Outreach"
-permalink: /outreach/
+title: "Incidencia"
+permalink: /incidencia/
 ---
 
 Aquí va tu proyección/impacto:
