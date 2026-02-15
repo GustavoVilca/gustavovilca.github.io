@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Notas"
-permalink: /notas/
+title: "Ideas"
+permalink: /ideas/
 ---
 
 <style>
