@@ -1,10 +1,14 @@
 title: "Gustavo Vilca"
-name: "Gustavo Vilca"
-description: "Investigador en gestión pública y transformación universitaria"
+description: "Sociólogo. Coordinador de GI "sociedad, política y gobierno".  Profesor en UNAJ. "
 url: "https://gustavovilca.github.io"
-logo: /foto2026.jpg
 
 theme: minima
+author: GLVC
 
-author: Gustavo Vilca
-
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - teaching.md
+  - outreach.md
+  - blog.md
