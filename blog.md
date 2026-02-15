@@ -3,14 +3,10 @@ layout: page
 title: "Blog"
 permalink: /blog/
 ---
+{% for post in site.posts limit:10 %}
+## [{{ post.title }}]({{ post.url | relative_url }})
+**{{ post.date | date: "%d %B %Y" }}**
+{{ post.excerpt }}
+---
 
-<ul>
-  {% for post in site.posts limit:10 %}
-    <li>
-      <span>{{ post.date | date: "%Y-%m-%d" }}</span>
-      — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<p><a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+{% endfor %}
