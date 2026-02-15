@@ -6,7 +6,7 @@ permalink: /ideas/
 <style>
   /* Centrar el contenido de ESTA página */
   .page-content {
-    max-width: 1300px;
+    max-width: 1300 px;
     margin: 0 auto;
   }
 
