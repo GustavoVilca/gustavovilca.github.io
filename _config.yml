@@ -1,0 +1,23 @@
+title: "Gustavo Vilca"
+name: "Gustavo Vilca"
+description: "Investigador en gestión pública y transformación universitaria"
+url: "https://gustavovilca.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Gustavo Vilca"
+  bio: "Sociólogo e investigador"
+  location: "Perú"
+
+nav:
+  - title: "Sobre mí"
+    url: /about/
+  - title: "Investigación"
+    url: /research/
+  - title: "Blog"
+    url: /posts/
