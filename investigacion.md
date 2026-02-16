@@ -11,9 +11,9 @@ permalink: /investigacion/
 
 
 #### Trabajos en curso
-[2025] Aula invertida y desarrollo de habilidades investigativas en la elaboración de proyectos de tesis de fin de carrera.
-[2025] Efecto del estilo de supervisión de tesis sobre el burnout académico: el rol moderador de la preferencia del tesista por estructura o autonomía. Estudio en una universidad del sur de Perú.
-[2024] Identificación de problemas: Habilidad de los tesistas para plantear problemas de investigación en gestión pública y el desarrollo social.
+- [2025] Aula invertida y desarrollo de habilidades investigativas en la elaboración de proyectos de tesis de fin de carrera.
+- [2025] Efecto del estilo de supervisión de tesis sobre el burnout académico: el rol moderador de la preferencia del tesista por estructura o autonomía. Estudio en una universidad del sur de Perú.
+- [2024] Identificación de problemas: Habilidad de los tesistas para plantear problemas de investigación en gestión pública y el desarrollo social.
 
 
 #### Artículos publicados
