@@ -75,3 +75,14 @@ h4 {
 body {
   color: #333;
 }
+
+/*para enlaces*/
+a {
+  color: #1a3c6e;
+}
+
+a:hover {
+  color: #274c77;
+  text-decoration: underline;
+}
+
