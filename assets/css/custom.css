@@ -77,12 +77,16 @@ body {
 }
 
 .home-photo img{
-  width:180px;
-  height:180px;
-  border-radius:50%;
-  object-fit:cover;
-  border:3px solid #0b3c5d;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border: 3px solid #1e4fa1; /* azul institucional */
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
 }
+
 
 .home-text h2{
   color:#0b3c5d;
