@@ -69,33 +69,24 @@ body {
 
 /* ====== FOTO INICIO ====== */
 
-.home-intro {
-  display: flex;
-  align-items: flex-start;
-  gap: 40px;
-  margin-top: 30px;
+.home-intro{
+  display:flex;
+  gap:32px;
+  align-items:flex-start;
+  margin-top:20px;
 }
 
-.home-photo img {
-  width: 220px;
-  border-radius: 8px;   /* bordes suaves */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);  /* sombra sutil */
+.home-photo img{
+  width:180px;
+  height:180px;
+  border-radius:50%;
+  object-fit:cover;
+  border:3px solid #0b3c5d;
 }
 
-.home-text {
-  flex: 1;
-}
-
-/* Responsive */
-@media (max-width: 900px) {
-  .home-intro {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .home-photo img {
-    width: 180px;
-  }
+.home-text h2{
+  color:#0b3c5d;
+  margin-top:0;
 }
 
 
