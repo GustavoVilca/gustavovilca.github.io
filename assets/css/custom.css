@@ -67,13 +67,36 @@ body {
 
 /* sobre la imagen de perfil*/
 
-.home-photo img {
-  width: 240px;
-  height: 240px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 4px solid #0b3c5d;   /* azul institucional elegante */
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+/* ====== FOTO INICIO ====== */
+
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 30px;
 }
+
+.home-photo img {
+  width: 220px;
+  border-radius: 8px;   /* bordes suaves */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);  /* sombra sutil */
+}
+
+.home-text {
+  flex: 1;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .home-intro {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .home-photo img {
+    width: 180px;
+  }
+}
+
 
 
