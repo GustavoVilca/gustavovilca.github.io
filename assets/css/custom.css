@@ -37,3 +37,6 @@
   padding-top: 30px;
 }
 
+/* Ocultar el footer por defecto de Minima */
+.site-footer { display: none !important; }
+
