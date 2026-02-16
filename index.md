@@ -5,7 +5,7 @@ title: "Inicio"
 <div class="home-intro">
 
   <div class="home-photo">
-    <img src="{{ '/assets/perfil.jpg' | relative_url }}" alt="Gustavo Vilca">
+    <img src="{{ '/assets/perfil.png' | relative_url }}" alt="Gustavo Vilca">
   </div>
   <div class="home-text">
   <h4>¡Bienvenidos!</h4>
