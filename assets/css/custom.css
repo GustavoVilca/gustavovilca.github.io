@@ -34,7 +34,7 @@
 
 /* Título principal de página */
 h1 {
-  color: #1a3c6e;
+  color: #0070C0;
   font-weight: 600;
   letter-spacing: 0.5px;
 }
@@ -63,6 +63,12 @@ h2::after {
 h3 {
   color: #333;
   font-weight: 600;
+}
+
+/* h4 más discreto */
+h4 {
+  color: #0070C0;
+  font-weight: 300;
 }
 
 /* Texto general más suave */
