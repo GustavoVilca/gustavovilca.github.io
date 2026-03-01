@@ -2,7 +2,7 @@
 layout: post
 title: "Sociología y la tensión no-superada entre ciencia y profesión"
 date: 2025-07-11
-categories: [opinion, sociologia]
+categories: [opinión, sociología]
 excerpt: "Sobre la crisis de identidad y el debilitamiento del mercado laboral de la sociología.  Proponemos que la solución no es elegir entre la teoría o la práctica, sino lograr una integración estratégica entre ambas."
 ---
 Para que el mercado laboral de una profesión como la sociología se fortalezca, es fundamental que el conocimiento que produce el sociólogo sea considerado útil y accionable dentro de las reglas del mercado de trabajo vigente. Esto solo será posible si los sociólogos "académicos" desarrollan teorías sociales y metodologías que despierten el interés y sean aplicables por los responsables políticos, las organizaciones y la ciudadanía. Sin embargo, en la actualidad, este vínculo entre teoría sociológica y utilidad social se ha debilitado fuertemente. 
