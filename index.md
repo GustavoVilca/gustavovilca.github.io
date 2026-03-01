@@ -30,7 +30,7 @@ Si quieres saber más o seguir en contacto, escríbeme a: gvilca@unaj.edu.pe
 #### Apuntes recientes 
 Aquí comparto notas de análisis y reflexión sobre investigaciones, docencia y asuntos de gobierno.
 
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:3 %}
 - **{{ post.date | date: "%d %B %Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
