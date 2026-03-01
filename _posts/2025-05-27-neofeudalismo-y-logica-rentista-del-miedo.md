@@ -2,7 +2,7 @@
 layout: post
 title: "Neofeudalismo y lógica rentista del miedo"
 date: 2025-05-27
-categories: [opinión, sociedad y tecnología]
+categories: [opinión, tecnología]
 excerpt: "Proponemos que el tecno feudalismo digital y la extorsión criminal operan análogamente como regímenes rentistas que extraen riqueza mediante el control absoluto de recursos clave (algoritmos o el miedo)."
 ---
 En unos apuntes anteriores reflexionaba sobre un ensayo potente de Yanis Varoufakis acerca del advenimiento del tecnofeudalismo. Su tesis central era que en la economía contemporánea la fuente principal de riqueza ya no se basa en la obtención de beneficios a través de la inversión de capital en actividades productivas, como postulaba el capitalismo clásico, sino en la captura de rentas derivadas del control de territorios digitales. Plataformas como Amazon, Google o Facebook no compiten en el mercado; "lo gobiernan". No producen mercancías; poseen las infraestructuras a través de las cuales todo se produce, circula o se comunica, extrayendo rentas de cada transacción, cada dato, cada interacción. En suma, esta forma de tecnofeudalismo tienen a someter al capitalismo oficial. 
