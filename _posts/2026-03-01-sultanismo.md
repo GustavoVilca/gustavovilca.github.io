@@ -2,7 +2,7 @@
 layout: post
 title: "Sobre la vigencia de un concepto weberiano: el sultanismo"
 date: 2026-03-01
-categories: [sociología]
+categories: [perspectiva-sociológica, análisis, gestión-pública]
 excerpt: "El concepto de sultanismo, desarrollado originalmente por Max Weber en Economía y Sociedad, es una forma extrema de dominación patrimonial (forma de Dominación Tradicional)."
 ---
 El concepto de sultanismo, desarrollado originalmente por Max Weber [1] en "Economía y Sociedad", es una forma extrema de dominación patrimonial (forma de Dominación Tradicional). En su forma ideal-típica, el sultanismo supone la concentración absoluta del poder en la figura del gobernante, sin límites institucionales efectivos. Sin embargo, en los regímenes actuales no suele presentarse en estado puro, sino como una variante matizada, que podría conceptualizarse como sultanismo encubierto. La sultanización no implica necesariamente la supresión de elecciones ni la desaparición formal de la legalidad, sino la personalización encubierta de la autoridad dentro de marcos democráticos. es decir, la sultanización ocurre cuando el Estado deja de operar como una estructura impersonal regida por normas y comienza a funcionar como prolongación de la voluntad del poseedor del cargo o puesto de decisión. Ejemplos: Alcaldes, Gobernadores, Directores o Rectores que manejan las instituciones a su cargo como si fuesen sus feudos; Se empeñan en hacer su voluntad y buscan en todo momento hackear el marco institucional-legal.   
