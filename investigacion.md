@@ -5,9 +5,9 @@ permalink: /investigacion/
 ---
 
 #### Temas de interés
-- Aprendizaje basado en la investigación y apropiación de la tecnología (ABI)
-- Modernización de la gestión pública  y automatización (MGA)
-- Estudios urbanos situados (EUS)
+- Educación y tecnología: estudio de la interacción entre los procesos educativos y las tecnologías emergentes, con especial interés en el desarrollo de competencias investigativas en la educación superior y el uso de herramientas de inteligencia artificial como apoyo al aprendizaje y la investigación. 
+- Modernización de la gestión pública: análisis de la transformación digital y la automatización de procesos administrativos, con énfasis en sus implicaciones para el desempeño institucional y la generación de valor público.
+- Estudios urbanos: investigación de las dinámicas sociales, territoriales e institucionales de las ciudades de la región Puno, con especial atención al área metropolitana de Juliaca y sus desafíos de desarrollo urbano.
 
 
 #### Trabajos en curso
