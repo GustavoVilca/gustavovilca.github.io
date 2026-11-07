@@ -17,6 +17,8 @@ permalink: /investigacion/
 
 
 #### Artículos publicados
+Vilca Colquehuanca, G. L., López Paz, P. M., Condori Centeno, J. C., & Sucasaca Robles, A. M. (2026). Aula invertida y habilidades investigativas en un curso de proyectos de tesis. _Educación_, 35(69), 140-161. https://doi.org/10.18800/educacion.202602.A003
+
 Vilca Colquehuanca, G. L., Machaca Chata, J. M., & Sucasaca Robles, A. M. (2025). Desempeño policial y confianza en la policía: comprendiendo la actitud ciudadana hacia la institución policial en Juliaca. _Waynarroque - Revista De Ciencias Sociales Aplicadas_, 4(2). https://doi.org/10.47190/rcsaw.v4i2.120
 
 Coaquira Vargas, M. V. ., & Vilca Colquehuanca, G. L. . (2023). Efecto del gasto público en salud sobre la pobreza en las provincias del Perú. _Revista Científica De La UCSA_, 10(3), 80–94. https://doi.org/10.18004/ucsa/2409-8752/2023.010.03.080 
